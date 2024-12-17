@@ -2,7 +2,7 @@
  *
  * Created by: Evan M
  * Created on: Nov 2024
- * This program will draw a perimeter both clockwise using a nest loop
+ * This program will draw a perimeter clockwise using a nest loop
 */
 
 //variables
